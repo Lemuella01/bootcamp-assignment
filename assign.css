@@ -1,0 +1,88 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.body{
+  background-color: hsl(233, 47%, 7%);;
+}
+ .one{
+   padding-top: 60px;
+   height: 650px;
+   width: 830px;
+   padding-left: 60px;
+  background-color: hsl(244, 38%, 16%)
+  
+  }
+  .head{
+    color: hsl(0, 0%, 100%);
+    font-size: 60px;
+    padding-top: 10px;
+  }
+  .words{
+    color: hsl(0, 0%, 100%, 0.75);
+    font-size: 30px;
+    font-family: Arial, ;
+    padding-top: 80px;
+  }
+.ins{
+  color: hsl(277, 64%, 61%);
+}
+
+.move{
+  color: hsl(0, 0%, 100%);
+  padding-top: 100px;
+  font-weight: bold;
+  list-style-type: none;
+  display: flex;
+  font-size: 40px;
+  }
+  .move .bosse{
+    padding-left: 80px;
+  }
+  .move .bosses{
+    padding-left: 95px;
+  }
+
+  .stay{
+    color: hsl(0, 0%, 100%, 0.75);
+    font-weight: small;
+    list-style-type: none;
+    display: flex;
+    font-size: 20px;
+  }
+  .stay .masss{
+    padding-left: 60px;
+  }
+  .stay .massse{
+    padding-left: 50px;
+  }
+  
+  .body{
+    display: flex;
+    margin-left: 190px;
+    margin-top: 150px;
+    }
+
+    .two{
+      position: relative;
+      display: flex;
+     background: linear-gradient( #812a4e80, #775c6b80),url(./image/ladies3.jpg);
+     justify-content: center;
+     background-size: contain;
+     background-repeat: no-repeat;
+     width: 785px;
+     }
+    
+     
+    
+
+  
+
+
+ 
+
+
+
+
+
